@@ -1,8 +1,7 @@
 // Conway's Game of Life
 // Board.cpp : Impementation of Board.h
 // 
-// Name : Anusha Prabakaran
-// Stdent ID : 1470730
+
 
 #include "Board.h"
 #include "MASS_base.h"
