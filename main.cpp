@@ -3,8 +3,7 @@
 // Its evolution is determined by its initial state, requiring no further input.
 // The input is got in as a file (eg:input.txt) or generates the starting state as random number.
 // 
-// Name : Anusha Prabakaran
-// Stdent ID : 1470730
+
 
 
 #include "MASS.h"
