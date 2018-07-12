@@ -2,8 +2,7 @@
 // Board.h : Every board cell has eight neighbours. 
 // It is a dervied class of Place.
 // 
-// Name : Anusha Prabakaran
-// Stdent ID : 1470730
+
 
 #ifndef Land_H
 #define Land_H
